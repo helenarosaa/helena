@@ -1,0 +1,40 @@
+Para criar um script Python que atenda aos requisitos que você mencionou, você pode utilizar o seguinte código:
+
+```python
+# Definindo as variáveis
+numeros = [10, 20, 30, 40]
+frase = "Esta é uma frase de exemplo"
+palavra = "Python"
+
+# Calculando a média aritmética entre os quatro números
+media = sum(numeros) / len(numeros)
+print("Média aritmética dos números:", media)
+
+# Calculando o quadrado de um dos números
+num_quadrado = numeros[2]
+quadrado = num_quadrado ** 2
+print("Quadrado de", num_quadrado, ":", quadrado)
+
+# Calculando o dobro de um dos números
+num_dobro = numeros[0]
+dobro = num_dobro * 2
+print("Dobro de", num_dobro, ":", dobro)
+
+# Contando a quantidade de letras da palavra
+qtd_letras = len(palavra)
+print("Quantidade de letras na palavra:", qtd_letras)
+
+# Contando a quantidade de espaços em branco da frase
+qtd_espacos = frase.count(" ")
+print("Quantidade de espaços em branco na frase:", qtd_espacos)
+
+# Verificando se o primeiro número é maior que o segundo
+if numeros[0] > numeros[1]:
+    print("O primeiro número é maior que o segundo.")
+else:
+    print("O primeiro número não é maior que o segundo.")
+
+# Encontrando o maior número
+maior_numero = max(numeros)
+print("O maior número é:", maior_numero)
+```
