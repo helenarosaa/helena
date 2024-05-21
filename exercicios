@@ -1,0 +1,29 @@
+Exercícios preparatórios 
+
+1-	É vantajoso conhecer a computação para usa-la como uma ferramenta do trabalho para aumentar a produtividade, pois ela está relacionada a nossa vida de forma geral, como por exemplo no controle de dados pessoais, etc. deve ser parte fundamental das relações humanas contemporâneas.  
+2-	A) conjunto de instruções que realizam uma tarefa, passos finitos que querem solucionar problemas
+b) espaço digital onde se armazenam dados. Outra forma de descrever seria como servidores remotos que operam como um sistema único.
+c) sistema computacional ou um computador físico propriamente dito
+d) todo trafego de dados deve ser tratado de forma igualitária sem distinção de qualquer forma. 
+e) conjunto de dados armazenados por meio de um sistema operacional, se relacionam de alguma forma 
+
+3-	Se usa abstração; a capacidade de ignorar aspectos menos interessantes. Cada conceito consiste em um nível diferente de abstração. Quanto mais próximo da construção mental humana, é mais abstrato
+4-	Automatizar tarefas repetitivas, facilitar as tarefas dos humanos, pois eles sabem apenas o que sabemos, nada além. 
+5-	A IA não pode ser responsabilizada civil e penalmente; não ultrapassam o nível de julgamento humano. Se for traçado um parâmetro acerca da concessão de empréstimos, com critérios objetivos, a IA é capaz de realizar, porém, uma rede neural artificial é muito difícil de explicar a decisão, e o empréstimo negado deve ser explicado; uma decisão médica deve sempre ser de uma pessoa. 
+6-	Arquivos de texto são compostos por caracteres entendíveis por humanos, já os binários são compostos por 0 e 1. Possuem graus de abstração diferentes. (todo arquivo é 0 e 1; ou seja, binário) mas no arquivo de texto os 0 e 1 sempre são caracteres, no binário, eles podem ser qualquer coisa. 
+7-	Um arquivo privado não quer dizer que ele tem dono ou é mais seguro; formato de arquivo proprietário é controlado por uma empresa ou coordenação e faz seus dados conforme seus interesses. A melhor forma de tratar os dados públicos é no conceito aberto, para serem facilmente acessados. 
+8-	Protocolo é um conjunto de regras que estabelece como as mensagens vão ser trocadas, seu formado e um protocolo de comunicação estabelece como os programas se comunicam na internet. Protocolos proprietários dificulta a entrada de novos atores no mercado
+9-	A) um sistema operacional é um software que gerencia recursos de hardware. Software são os programas e hardware é o componente físico. 
+b) não. Existem vários (Windows, IOS)
+c) existe uma divergência entre o TJ e a OAB, mas entende-se que o sistema operacional é parte essencial do computador
+
+10-	 A) ela pode incluir datacenters em outros países, desde que ele processe dados capturados no brasil. 
+b) 1) sim. Devem retirar conteúdo que fuja de suas propostas de segurança e intimidade
+2) é possível ver na pratica os algoritmos trabalhando para disseminar fake News, mas quando alguma ofensa for dirigida a alguém na internet, essa pessoa deve ser indenizada civilmente. 
+
+11-	 A) for e while
+b) dois pontos em uma linha e a indentação 
+c) adição de números e concatenação de textos.
+d) bloco de códigos reutilizável que realiza uma tarefa especifica 
+e) definida utilizando a palavra def + o nome, lista de parâmetros separados por parêntese, dois pontos e o bloco de comando da função 
+f) if,if else e if elif else. 
